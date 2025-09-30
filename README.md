@@ -4,11 +4,6 @@ I tranformed the data by checking for duplicates, droping null values, deleted u
 Findings
 total rows after cleaning = 4994
 Power Bi Visuallization = When hierarchy was analyzes. Count Basie "on his One O cloovk Jump song Has a final score 9,525 as final score. while Blue Traveler "Run Around" song was the least at 4,169.
-
-
-
-
-
-
-The ETL process was time demanding but it was worth the outcome.# Personal-Project-5000-arstist-Data
-Analysis on 5000 Artist Data
+visualization by bar chart shows shows thatt The Beatles has thr highest in raw englih songs at 355 while Pink has the least at 50. 
+Sum of year by arstst and name -
+Sum of position by arrsitst - Madonna is the highest at 82k, while Olivia Newton -John at 25k. 
